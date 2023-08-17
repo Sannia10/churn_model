@@ -1,5 +1,5 @@
 # churn_model
-Overview
+
 Instructions for Python Notebook:
 1.	The code for all the methods tried and tested is included in the jupyter notebook with comments.
 2.	The file contains a section at the end named as “Churn Model”. It includes the step by step procedure of extracting the data, defining the features, scaling the data and running the final model.
